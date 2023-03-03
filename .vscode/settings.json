@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8248220c-c57f-4313-8d74-839e032437f7/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Friendly-Crocodile",
+    "appService.deploySubpath": "."
+}

@@ -1,0 +1,8 @@
+.git
+node_modules
+classes
+/work/
+/.tomcatplugin
+/coveredPartiesInquiryRequest.xml
+/WebContent/
+/target/
